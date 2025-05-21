@@ -10,6 +10,8 @@ function v(){
         verde.style.backgroundColor = "green";
 }
 
+console.log('BABANAS 3');
+
 function vermelho(){
     var verde = document.getElementById("verde");
     var amarelo = document.getElementById("amarelo");
